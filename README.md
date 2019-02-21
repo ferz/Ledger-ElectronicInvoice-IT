@@ -17,7 +17,7 @@ Ho provato a generare con XML::Pastor i file delle classi dall'XML Schema dell'a
 Il testo fa riferimento ad un aggiornamento alla versione 1.2.1 dell'XML Schema di ottobre 2018, vedi pagina:
 https://www.fatturapa.gov.it/export/fatturazione/it/normativa/f-2.htm
 
-ma il link porta aduna versione 1.2 non a una 1.2.1.
+ma il link porta ad una versione 1.2 non a una 1.2.1.
 
 https://fatturapa.gov.it/export/fatturazione/sdi/fatturapa/v1.2/Schema_del_file_xml_FatturaPA_versione_1.2.xsd
 
