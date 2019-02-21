@@ -32,4 +32,4 @@ https://fatturapa.gov.it/export/fatturazione/sdi/fatturapa/v1.2/Schema_del_file_
 
 La cosa carina è che perfino l'editor mi segnale di rosso "xsd" nell'elemento qui sopra.
 
-Sono esterefatto che nonostante ci abbiano lavorato da mesi questo XML Schema contenga ancora degli errori. 
+Sono esterefatto :scream: che nonostante ci abbiano lavorato da mesi questo XML Schema contenga ancora degli errori. 
